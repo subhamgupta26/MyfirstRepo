@@ -1,11 +1,15 @@
 Hello Git.........!!!!!
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 change1
 
 change 2
 
 change  3
+=======
+change1
+>>>>>>> parent of 17aa21a... third change
 =======
 change1
 >>>>>>> parent of 17aa21a... third change
